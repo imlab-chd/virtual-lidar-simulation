@@ -28,7 +28,7 @@
 
 **初始点云生成参考**：[GitHub - ptibom/Lidar-Simulator: Virtual Generation of Lidar Data for Autonomous Vehicles](https://github.com/ptibom/Lidar-Simulator)
 
-
+**文章引用**:唐维军,徐琨,柳有权,夏悬.自动驾驶汽车虚拟测试中的树木点云生成方法[J].计算机工程与应用,2021,57(11):185-192.
 
 **本文工作受到如下项目资助：**
 
